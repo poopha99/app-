@@ -1,0 +1,6 @@
+{
+  "name": "แปลเกมไต้หวัน",
+  "description": "แอพแปลภาษาจีนไต้หวันเป็นภาษาไทยแบบเรียลไทม์ขณะเล่นเกม พร้อมปุ่มลอย HUD และคลังคำศัพท์เกมเมอร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
